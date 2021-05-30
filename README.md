@@ -1,4 +1,4 @@
 # ImprintingHub
 
-https://raw.githubusercontent.com/zwdzwd/ImprintingHub/master/track/hub.txt
+https://raw.githubusercontent.com/zhou-lab/ImprintingHub/master/track/hub.txt
 
