@@ -87,13 +87,6 @@ dragAndDrop on
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413828_MII_5_deeper.mm10_liftOver.bw
          parent Oocyte on
 
-         track Wang2014Cell_Sperm
-         type bigWig
-         shortLabel Wang2014Cell_Sperm
-         longLabel Wang2014Cell_Sperm
-         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Wang2014Cell_Sperm.bw
-         parent Spermatocyte on
-
 track Spermatocyte_WGBS
 type bigWig
 shortLabel Spermatocyte WGBS
@@ -104,6 +97,13 @@ maxHeightPixels 100:15:5
 visibility hide
 allButtonPair on
 dragAndDrop on
+
+         track Wang2014Cell_Sperm
+         type bigWig
+         shortLabel Wang2014Cell_Sperm
+         longLabel Wang2014Cell_Sperm
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Wang2014Cell_Sperm.bw
+         parent Spermatocyte_WGBS on
 
          track Hammoud2014CellSC_Sperm-Mature
          type bigWig
