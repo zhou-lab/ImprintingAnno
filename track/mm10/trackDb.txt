@@ -48,10 +48,10 @@ color 100,10,60
 maxHeightPixels 128:25:10
 priority 1
 
-track Oocyte
+track Oocyte_WGBS
 type bigWig
-shortLabel Oocyte
-longLabel Oocyte
+shortLabel Oocyte_WGBS
+longLabel Oocyte_WGBS
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -64,28 +64,28 @@ dragAndDrop on
          shortLabel Wang2014Cell_Oocyte
          longLabel Wang2014Cell_Oocyte
          bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Wang2014Cell_Oocyte.bw
-         parent Oocyte on
+         parent Oocyte_WGBS on
 
          track Smallwood2014_GSM1370534_MII_oocytes_bulk
          type bigWig
          shortLabel Smallwood2014_GSM1370534_MII_oocytes_bulk
          longLabel Smallwood2014_GSM1370534_MII_oocytes_bulk
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1370534_MII_oocytes_bulk.mm10_liftOver.bw
-         parent Oocyte on
+         parent Oocyte_WGBS on
 
          track Smallwood2014_GSM1413827_MII_2_deeper.mm10_liftOver
          type bigWig
          shortLabel Smallwood2014_GSM1413827_MII_2_deeper
          longLabel Smallwood2014_GSM1413827_MII_2_deeper
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413827_MII_2_deeper.mm10_liftOver.bw
-         parent Oocyte on
+         parent Oocyte_WGBS on
          
          track Smallwood2014_GSM1413828_MII_5_deeper.mm10_liftOver
          type bigWig
          shortLabel Smallwood2014_GSM1413828_MII_5_deeper
          longLabel Smallwood2014_GSM1413828_MII_5_deeper
          bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413828_MII_5_deeper.mm10_liftOver.bw
-         parent Oocyte on
+         parent Oocyte_WGBS on
 
 track Spermatocyte_WGBS
 type bigWig
