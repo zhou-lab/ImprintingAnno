@@ -6,7 +6,9 @@
 
 https://raw.githubusercontent.com/zhou-lab/ImprintingAnno/master/track/hub.txt
 
-# Mouse (mm10)
+# Mouse (mm10) Sessions
+
+_Click to visit UCSC sessions_
 
 ## [Plagl1, Zac1 (chr10:13090289-13091600)](https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=https://github.com/zhou-lab/ImprintingAnno/blob/master/img/Plagl1.txt?raw=true)
 [![img](img/Plagl1.png)](https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=https://github.com/zhou-lab/ImprintingAnno/blob/master/img/Plagl1.txt?raw=true)
