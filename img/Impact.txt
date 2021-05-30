@@ -1,262 +1,296 @@
-bplist00—_WebMainResource’	
-^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_)https://genome.ucsc.edu/cgi-bin/hgSessionPO*‹<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">_ 1622402617870
-c chr17
-clade mammal
-cons60way hide
-cons60wayViewalign.showCfg off
-cons60wayViewelements.showCfg off
-cons60wayViewphastcons.showCfg off
-cons60wayViewphyloP.showCfg off
-db mm10
-dinkL 2.0
-dinkR 2.0
-displaySubtracks all
-enableHighlightingDialog 1
-encodeCcreCombined_imgOrd 28
-expOrder_cons60way phyloP60wayPlacental 
-expOrder_hub_2904095_Oocyte hub_2904095_Wang2014Cell_Oocyte hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver 
-expOrder_hub_2904095_Oocyte_WGBS hub_2904095_Wang2014Cell_Oocyte hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver 
-expOrder_hub_2904095_Spermatocyte hub_2904095_Wang2014Cell_Sperm hub_2904095_Hammoud2014CellSC_Spermatid-W8 hub_2904095_Hammoud2014CellSC_Sperm-Mature hub_2904095_Hammoud2014CellSC_Spermatocyte-W8 
-expOrder_hub_2904095_Spermatocyte_WGBS hub_2904095_Wang2014Cell_Sperm hub_2904095_Hammoud2014CellSC_Sperm-Mature hub_2904095_Hammoud2014CellSC_Spermatocyte-W8 hub_2904095_Hammoud2014CellSC_Spermatid-W8 
-goButton go
-hgFind.matches ENSMUST00000202826.1
-hgHubConnect.hub.2904095 1
-hgS_loadUrlName 
-hgS_otherUserName 
-hgS_otherUserSessionName 
-hgS_saveLocalFileCompress none
-hgS_saveLocalFileName 
-hgsid 1117682749_tGWPjEpIupsC5plDLPMhpt0Lc4R0
-hgtgroup_compGeno_close 0
-hgtgroup_genes_close 0
-hgtgroup_hub_2904095_close 0
-hgtgroup_map_close 0
-hgtgroup_pub_close 0
-hgtgroup_regulation_close 0
-hgtgroup_rna_close 0
-hgtgroup_varRep_close 0
-highlight mm10#chr2#174294778#174299600#aaedff|mm10#chr2#174327149#174327881#aaedff|mm10#chr6#4746830#4749271#aaedff|mm10#chr6#30735884#30739580#aaedff|mm10#chr7#6727472#6731285#aaedff|mm10#chr7#60004023#60005770#aaedff|mm10#chr7#143294798#143296071#aaedff|mm10#chr10#13090289#13091600#aaedff|mm10#chr11#12026785#12026798#aaedff|mm10#chr11#12025451#12025844#aaedff|mm10#chr11#22971698#22973990#aaedff|mm10#chr17#12741763#12742936#aaedff|mm10#chr18#12972071#12974805#aaedff|mm10#chr7#142579860#142581956#aaedff|mm10#chr9#89875459#89878138#aaedff|mm10#chr12#109527910#109528908#aaedff|mm10#chr15#72808843#72811448#aaedff|mm10#chr15#97054004#97055720#aaedff
-hub_2904095_204617710019_R05C01_imgOrd 10
-hub_2904095_204617710019_R06C01_imgOrd 11
-hub_2904095_204617710021_R01C02_imgOrd 7
-hub_2904095_204617710021_R02C02_imgOrd 8
-hub_2904095_204617710021_R03C02_imgOrd 9
-hub_2904095_204637490001_R02C01_imgOrd 10
-hub_2904095_204637490001_R04C01_imgOrd 13
-hub_2904095_204875570008_R02C01_imgOrd 13
-hub_2904095_204875570010_R03C02_imgOrd 16
-hub_2904095_204875570011_R02C01_imgOrd 24
-hub_2904095_204875570014_R02C01_imgOrd 20
-hub_2904095_204875570014_R02C02_imgOrd 14
-hub_2904095_204875570014_R03C01_imgOrd 12
-hub_2904095_204875570019_R02C02_imgOrd 15
-hub_2904095_204875570036_R02C02_imgOrd 25
-hub_2904095_204875570048_R02C02_imgOrd 22
-hub_2904095_204875570051_R01C02_imgOrd 23
-hub_2904095_204875570062_R04C01_imgOrd 26
-hub_2904095_204875570065_R06C02_imgOrd 27
-hub_2904095_Hammoud2014CellSC_Sperm-Mature_imgOrd 21
-hub_2904095_Hammoud2014CellSC_Spermatid-W8_imgOrd 22
-hub_2904095_Hammoud2014CellSC_Spermatocyte-W8_imgOrd 23
-hub_2904095_Heart dense
-hub_2904095_ICR_Tomizawa2011 pack
-hub_2904095_ICR_Tomizawa2011_imgOrd 3
-hub_2904095_ICR_Wang2014 pack
-hub_2904095_ICR_Wang2014_imgOrd 4
-hub_2904095_Kidney dense
-hub_2904095_Kobayashi2012PLoSG_Oocyte_imgOrd 26
-hub_2904095_MouseArrayImprintingDesigned_imgOrd 6
-hub_2904095_MouseArray_imgOrd 5
-hub_2904095_Muscle dense
-hub_2904095_Oocyte full
-hub_2904095_Oocyte_WGBS full
-hub_2904095_Shirane2013PLoSG_Oocyte-GV_imgOrd 27
-hub_2904095_Shirane2013PLoSG_Oocyte-NG_imgOrd 28
-hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk_imgOrd 17
-hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver_imgOrd 18
-hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver_imgOrd 19
-hub_2904095_Spermatocyte full
-hub_2904095_Spermatocyte_WGBS full
-hub_2904095_Testis dense
-hub_2904095_Wang2014Cell_Oocyte_imgOrd 16
-hub_2904095_Wang2014Cell_Sperm_imgOrd 20
-hub_2904095_WholeGenomeCpG dense
-hub_2904095_WholeGenomeCpG_imgOrd 2
-intronEst hide
-intronEst.Ft red
-intronEst.Lt and
-intronEst.acc 
-intronEst.alwaysZero OFF
-intronEst.aut 
-intronEst.autoScale auto-scale to data view
-intronEst.baseColorDrawOpt none
-intronEst.cel 
-intronEst.des 
-intronEst.doWiggle 0
-intronEst.gen 
-intronEst.heightPer 128
-intronEst.horizGrid OFF
-intronEst.indelDoubleInsert 1
-intronEst.indelPolyA 0
-intronEst.indelQueryInsert 1
-intronEst.key 
-intronEst.lib 
-intronEst.lineBar bar
-intronEst.negateValues 0
-intronEst.pro 
-intronEst.smoothingWindow OFF
-intronEst.tis 
-intronEst.transformFunc NONE
-intronEst.windowingFunction maximum
-intronEst.yLineMark 0
-intronEst.yLineOnOff OFF
-intronEst_imgOrd 28
-jsh_pageVertPos 0
-knownGene.label.gene 1
-knownGene_imgOrd 1
-l 12736479
-lastPosition chr17:12736480-12748219
-lastVirtModeExtraState 
-lastVirtModeType default
-multishad.snp142Common.include_bitfields 0
-multishad.snp142Common.include_class 0
-multishad.snp142Common.include_exceptions 0
-multishad.snp142Common.include_func 0
-multishad.snp142Common.include_molType 0
-multishad.snp142Common.include_valid 0
-multishad.snp142Common_geneTrack 0
-multiz60way_imgOrd 32
-ncbiRefSeqCurated_imgOrd 29
-ncbiRefSeqCurated_sel 1
-oldPosition chr18:12959763-12987112
-org Mouse
-phyloP60wayPlacental_imgOrd 31
-pix 1177
-position chr18:12959763-12987112
-position.mm10 lastVirtModeType=default&amp;lastVirtModeExtraState=&amp;virtModeType=default&amp;virtMode=0&amp;nonVirtPosition=&amp;position=chr18%3A12959763%2D12987112
-r 12748219
-refSeqComposite hide
-refSeqComposite.label.gene 1
-refSeqComposite_sel 1
-rmsk hide
-rmsk_imgOrd 34
-simOrder_cons60way phyloP60wayPlacental 
-simOrder_hub_2904095_Oocyte hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver hub_2904095_Wang2014Cell_Oocyte hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver 
-simOrder_hub_2904095_Oocyte_WGBS hub_2904095_Wang2014Cell_Oocyte hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver 
-simOrder_hub_2904095_Spermatocyte hub_2904095_Hammoud2014CellSC_Spermatocyte-W8 hub_2904095_Hammoud2014CellSC_Sperm-Mature hub_2904095_Hammoud2014CellSC_Spermatid-W8 hub_2904095_Wang2014Cell_Sperm 
-simOrder_hub_2904095_Spermatocyte_WGBS hub_2904095_Hammoud2014CellSC_Sperm-Mature hub_2904095_Wang2014Cell_Sperm hub_2904095_Hammoud2014CellSC_Spermatid-W8 hub_2904095_Hammoud2014CellSC_Spermatocyte-W8 
-snp142Common hide
-snp142Common.allelesDbSnpStrand 0
-snp142Common.colorSource Function
-snp142Common.extendedNames 0
-snp142Common.funcIntron black
-snp142Common.funcLocus black
-snp142Common.funcNonSynon red
-snp142Common.funcSplice red
-snp142Common.funcSynon green
-snp142Common.funcUnknown black
-snp142Common.funcUntranslated blue
-snp142Common.include_bitfields 
-snp142Common.include_bitfields clinically-assoc
-snp142Common.include_bitfields maf-5-some-pop
-snp142Common.include_bitfields maf-5-all-pops
-snp142Common.include_bitfields has-omim-omia
-snp142Common.include_bitfields microattr-tpa
-snp142Common.include_bitfields submitted-by-lsdb
-snp142Common.include_bitfields genotype-conflict
-snp142Common.include_bitfields rs-cluster-nonoverlapping-alleles
-snp142Common.include_bitfields observed-mismatch
-snp142Common.include_class single
-snp142Common.include_class in-del
-snp142Common.include_class mnp
-snp142Common.include_class insertion
-snp142Common.include_class deletion
-snp142Common.include_class mixed
-snp142Common.include_class no variation
-snp142Common.include_class named
-snp142Common.include_class microsatellite
-snp142Common.include_class het
-snp142Common.include_class unknown
-snp142Common.include_exceptions NoExceptions
-snp142Common.include_exceptions RefAlleleMismatch
-snp142Common.include_exceptions RefAlleleRevComp
-snp142Common.include_exceptions DuplicateObserved
-snp142Common.include_exceptions MixedObserved
-snp142Common.include_exceptions FlankMismatchGenomeLonger
-snp142Common.include_exceptions FlankMismatchGenomeEqual
-snp142Common.include_exceptions FlankMismatchGenomeShorter
-snp142Common.include_exceptions NamedDeletionZeroSpan
-snp142Common.include_exceptions NamedInsertionNonzeroSpan
-snp142Common.include_exceptions SingleClassLongerSpan
-snp142Common.include_exceptions SingleClassZeroSpan
-snp142Common.include_exceptions SingleClassTriAllelic
-snp142Common.include_exceptions SingleClassQuadAllelic
-snp142Common.include_exceptions ObservedWrongFormat
-snp142Common.include_exceptions ObservedTooLong
-snp142Common.include_exceptions ObservedContainsIupac
-snp142Common.include_exceptions ObservedMismatch
-snp142Common.include_exceptions MultipleAlignments
-snp142Common.include_exceptions NonIntegerChromCount
-snp142Common.include_exceptions AlleleFreqSumNot1
-snp142Common.include_exceptions SingleAlleleFreq
-snp142Common.include_exceptions InconsistentAlleles
-snp142Common.include_func unknown
-snp142Common.include_func coding-synon
-snp142Common.include_func intron
-snp142Common.include_func near-gene-3
-snp142Common.include_func near-gene-5
-snp142Common.include_func ncRNA
-snp142Common.include_func nonsense
-snp142Common.include_func missense
-snp142Common.include_func stop-loss
-snp142Common.include_func frameshift
-snp142Common.include_func cds-indel
-snp142Common.include_func untranslated-3
-snp142Common.include_func untranslated-5
-snp142Common.include_func splice-3
-snp142Common.include_func splice-5
-snp142Common.include_molType unknown
-snp142Common.include_molType genomic
-snp142Common.include_molType cDNA
-snp142Common.include_molType mito
-snp142Common.include_valid unknown
-snp142Common.include_valid by-cluster
-snp142Common.include_valid by-frequency
-snp142Common.include_valid by-submitter
-snp142Common.include_valid by-2hit-2allele
-snp142Common.include_valid by-hapmap
-snp142Common.include_valid by-1000genomes
-snp142Common.maxMinorAlFreq 0.5
-snp142Common.maxWeight 1
-snp142Common.minAlFreq2N 0
-snp142Common.minAvHet 0
-snp142Common.minMinorAlFreq 0
-snp142Common.minSubmitters 0
-snp142Common.section_colorByAttribute_close 1
-snp142Common.section_filterByAttribute_close 1
-snp142Common.section_geneTracks_close 1
-snp142Common_geneTrack knownGene
-snp142Common_imgOrd 33
-tabulaMuris hide
-tabulamurisBarChart_imgOrd 39
-textFont Helvetica
-textSize 12
-textStyle Normal
-trackHubs 2904095
-virtMode 0
-virtModeType default
-tabulamurisBarChart full
-cpgIslandExt pack
-encodeCcreCombined dense
-knownGene pack
-wgEncodeGencodeVM25 pack
-altSeqLiftOverPslStrains1 dense
-mm10Haplotypes pack
-transMapEnsemblV5 pack
-transMapRefSeqV5 pack
-encode3RenChromHmm pack
-cytoBandIdeo dense
-crispr10KRanges dense
-crispr10KTargets pack
-encode3RenAtac full
-defaultsSet on</pre></body></html>Ztext/plainUUTF-8    ( 7 N ` v î ¿ ¡+°+¨                           +≤
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+
+<meta http-equiv='Content-Security-Policy' content="default-src *; script-src 'self' blob: 'unsafe-inline' 'nonce-JVrvL5sDaRNzkAu0yaHuYxL4e4mS' code.jquery.com www.google-analytics.com www.samsarin.com/project/dagre-d3/latest/dagre-d3.js cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js cdnjs.cloudflare.com/ajax/libs/bowser/1.6.1/bowser.min.js cdnjs.cloudflare.com/ajax/libs/jstree/3.3.4/jstree.min.js cdnjs.cloudflare.com/ajax/libs/jstree/3.3.7/jstree.min.js login.persona.org/include.js cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js ajax.googleapis.com maxcdn.bootstrapcdn.com d3js.org/d3.v3.min.js cdn.datatables.net; style-src * 'unsafe-inline'; font-src * data:; img-src * data:;">
+	
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+<META http-equiv="Content-Script-Type" content="text/javascript">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+	<TITLE>Sign in to UCSC Genome Bioinformatics	</TITLE>
+    <link rel='stylesheet' href='../style/HGStyle.css?v=1620062719' type='text/css'>
+</HEAD>
+<BODY CLASS="hgSession cgi">
+<center><div id='warnBox' style='display:none;'><CENTER><B id='warnHead'></B></CENTER><UL id='warnList'></UL><CENTER><button id='warnOK'></button></CENTER></div></center>
+
+<noscript><div class='noscript'><div class='noscript-inner'><p><b>JavaScript is disabled in your web browser</b></p><p>You must have JavaScript enabled in your web browser to use the Genome Browser</p></div></div></noscript>
+<script type='text/javascript' SRC='../js/jquery.js?v=1620062719'></script>
+<script type='text/javascript' SRC='../js/jquery.plugins.js?v=1620062719'></script>
+<script type='text/javascript' SRC='../js/utils.js?v=1620062719'></script>
+<link rel='stylesheet' href='../style/nice_menu.css?v=1620062719' type='text/css'>
+<div id="main-menu-whole">
+
+		<div id="main-menu"><div id="block-nice_menus-1" class="clear-block block block-nice_menus">
+
+	<div class="upcorner"></div>
+	<div class="blockbg">
+		<div class="blockcontent">
+						<div class="content">
+
+<ul class="nice-menu nice-menu-down sf-js-enabled" id="nice-menu-1">
+
+<li class="first even" id="home"><a href="../index.html" ><span id="home-link">Home</span></a></li> 
+
+<li class="menuparent" id="tools1"><a href="../cgi-bin/hgGateway?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Genomes</a>
+	<ul style="display: none; visibility: hidden;">
+	<li class="first"><a href="../cgi-bin/hgTracks?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;db=hg38&amp;position=lastDbPos">Human GRCh38/hg38</a></li>
+	<li><a href="../cgi-bin/hgTracks?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;db=hg19&amp;position=lastDbPos">Human GRCh37/hg19</a></li>
+	<li><a href="../cgi-bin/hgTracks?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;db=mm39&amp;position=lastDbPos">Mouse GRCm39/mm39</a></li>
+	<li><a href="../cgi-bin/hgTracks?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;db=mm10&amp;position=lastDbPos">Mouse GRCm38/mm10</a></li>
+	<li><a href="https://hgdownload.soe.ucsc.edu/hubs/">Genome Archive GenArk</a></li>
+	<li><a href="../cgi-bin/hgTracks?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;db=wuhCor1&amp;position=lastDbPos">SARS-CoV-2 (COVID-19)</a></li>
+	<li class="last"><a href="../cgi-bin/hgGateway?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Other</a></li>
+        </ul>
+</li>
+
+<li class="menuparent" id="tools2"><a href="../cgi-bin/hgTracks?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Genome Browser</a>
+	<ul style="display: none; visibility: hidden;">
+	<li class="first"><a id="configureMenuLink" href="../cgi-bin/hgTracks?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;hgTracksConfigPage=configure">Configure</a></li>
+	<li><a id="trackSearchMenuLink" href="../cgi-bin/hgTracks?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;hgt_tSearch=track+search">Track Search</a></li>
+        <!-- OPTIONAL_RECOMMENDED_TRACK_SETS_MENU -->
+	<li><a id="cartResetMenuLink" href="../cgi-bin/cartReset">Reset All User Settings</a></li>
+        </ul>
+</li>
+
+
+<li class="menuparent" id="tools3"><span>Tools</span>
+	<ul style="display: none; visibility: hidden;">
+	<li class="first"><a id="blatMenuLink" href="../cgi-bin/hgBlat?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;command=start">Blat</a></li>
+	<li><a id="ispMenuLink" href="../cgi-bin/hgPcr?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">In-Silico PCR</a></li>
+	<li><a id="tableBrowserMenuLink" href="../cgi-bin/hgTables?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Table Browser</a></li>
+	<li><a id="liftOverMenuLink" href="../cgi-bin/hgLiftOver?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">LiftOver</a></li>
+	<li><a id="gsMenuLink" href="../cgi-bin/hgNear?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Gene Sorter</a></li>
+	<li><a id="vaiMenuLink" href="../cgi-bin/hgVai?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Variant Annotation Integrator</a></li>
+	<li><a id="diMenuLink" href="../cgi-bin/hgIntegrator?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Data Integrator</a></li>
+	<li><a id="ggMenuLink" href="../cgi-bin/hgGenome?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Genome Graphs</a></li>
+        <li><a title="Explore gene/protein interactions and pathways" id="interactionMenuLink" href="../cgi-bin/hgGeneGraph?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Gene Interactions</a></li>
+	<li class="last"><a href="../util.html">Other Tools</a></li>
+	</ul>
+</li>
+<li class="menuparent" id="mirrors"><span>Mirrors</span>
+	<ul style="display: none; visibility: hidden;">
+	<li class="first"><a href="../mirror.html">Third Party Mirrors</a></li>
+	<li><a href="../goldenPath/help/mirror.html">Mirroring Instructions</a></li>
+	<li id="geoMirrorMenu" class="noHighlight"><hr></li>
+<li id="server1" class="noHighlight">
+<img alt="X" width="16" height="16" style="float:left;" src="../images/greenChecksmCtr.png">
+US Server</li>
+<li id="server2">
+<img alt="X" width="16" height="16" style="float:left;visibility:hidden;" src="../images/greenChecksmCtr.png">
+<a href="http://genome-euro.ucsc.edu/cgi-bin/hgGateway?redirect=manual">European Server</a></li>
+<li id="server3">
+<img alt="X" width="16" height="16" style="float:left;visibility:hidden;" src="../images/greenChecksmCtr.png">
+<a href="http://genome-asia.ucsc.edu/cgi-bin/hgGateway?redirect=manual">Asian Server</a></li>
+
+	</ul>
+
+</li>
+<li class="menuparent" id="downloads"><span>Downloads</span>
+	<ul style="display: none; visibility: hidden;">
+	<li class="first"><a href="https://hgdownload.soe.ucsc.edu/downloads.html">Genome Data</a></li>
+	<li><a href="https://hgdownload.soe.ucsc.edu/downloads.html#source_downloads">Source Code</a></li>
+  <li><a href="https://genome-store.ucsc.edu">Genome Browser Store</a></li>
+	<li><a href="https://hgdownload.soe.ucsc.edu/downloads.html#utilities_downloads">Utilities</a></li>
+	<li class="last"><a href="../goldenPath/help/ftp.html">FTP</a></li>
+	<li class="last"><a href="../goldenPath/help/mysql.html">MySQL Access</a></li>
+	<li class="last"><a href="../goldenPath/help/api.html">REST API</a></li>
+	</ul>
+</li>
+<li class="menuparent" id="myData"><span>My Data</span>
+	<ul style="display: none; visibility: hidden;">
+	<li><a id="customTracksMenuLink" href="../cgi-bin/hgCustom?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Custom Tracks</a></li>
+	<li><a id="sessionsMenuLink" href="../cgi-bin/hgSession?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&amp;hgS_doMainPage=1">My Sessions</a></li>
+	<li><a id="trackHubsMenuLink" href="../cgi-bin/hgHubConnect?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Track Hubs</a></li>
+	<li><a id="customCompositeMenuLink" href="../cgi-bin/hgCollection?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Track Collection Builder</a></li>
+	<li class="last"><a id="publicSessionsMenuLink" href="../cgi-bin/hgPublicSessions?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Public Sessions</a></li>
+	</ul>
+</li>
+
+<!-- OPTIONAL_VIEW_MENU -->
+
+<!-- OPTIONAL_PROJECT_MENU_START -->
+<li class="menuparent" id="projects"><span>Projects</span>
+	<ul style="display: none; visibility: hidden;">
+	<li class="first"><a href="../gtex.html">Genotype Tissue Expression (GTEx)</a></li>
+	<li><a href="../ENCODE/index.html">Encyclopedia of DNA Elements (ENCODE)</a></li>
+	<li><a href="../singlecell.html">UCSC Cell Browser</a></li>
+	<li class="last"><a href="../covid19.html">UCSC COVID-19 Research</a></li>
+	</ul>
+<!-- OPTIONAL_PROJECT_MENU_END -->
+
+<li class="menuparent" id="help"><span>Help</span><ul style="display: none; visibility: hidden;">
+<li><a href='../goldenPath/help/hgSessionHelp.html'>Help on Sessions</a></li>
+<li><a href="../FAQ/">FAQs & Search</a></li>
+<li><a href="../goldenPath/help/hgTracksHelp.html">Browser Documentation</a></li>
+<li><a href="../training/index.html">Training</a></li>
+<li><a href="../contacts.html">Contact Us</a></li>
+<li class="last"><a href="http://genomewiki.ucsc.edu/" target="_blank">GenomeWiki</a></li>
+</ul>
+</li>
+
+<li class="menuparent last" id="aboutUs"><span>About Us</span>
+	<ul style="display: none; visibility: hidden;">
+	<li class="first odd"><a href="../goldenPath/newsarch.html">News</a></li>
+	<li class="even"><a href="../goldenPath/pubs.html">Publications</a></li>
+	<li class="odd"><a href="http://genome.ucsc.edu/blog/">Blog</a></li>
+	<li class="even"><a href="../cite.html">Cite Us</a></li>
+	<li class="odd"><a href="../goldenPath/credits.html">Credits</a></li>
+	<li class="even"><a href="../goldenPath/releaseLog.html">Release Log</a></li>
+	<li class="odd"><a href="../staff.html">Staff</a></li>
+	<li class="even"><a href="../conditions.html">Conditions of Use</a></li>
+	<li class="odd"><a href="https://ucscgenomics.soe.ucsc.edu/careers/" TARGET="_blank">Jobs</a></li>
+	<li class="even last"><a href="../license/">Licenses</a></li>
+</ul>
+</li>
+
+</ul>
+</div>
+		</div>
+	</div>
+	<div class="downcorner"></div>
+
+</div>
+</div><!-- end main-menu -->
+</div><!-- end main-menu-whole -->
+
+<A NAME="TOP"></A>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH="100%">
+
+<!-- +++++++++++++++++++++ CONTENT TABLES +++++++++++++++++++ -->
+<TR><TD COLSPAN=3>
+<div id=firstSection> <!--outer table is for border purposes-->
+ <TABLE WIDTH='100%' BGCOLOR='#888888' BORDER='0' CELLSPACING='0' CELLPADDING='1'><TR><TD>
+ <TABLE CLASS='hgInside' BGCOLOR='#FFFEE8' WIDTH='100%'  BORDER='0' CELLSPACING='0' CELLPADDING='0'><TR><TD>
+     <div class='subheadingBar'><div class='windowSize' id='sectTtl'>
+Sign in to UCSC Genome Bioinformatics     </div></div>
+     <TABLE CLASS='hgInside' BGCOLOR='#FFFEE8' WIDTH='100%' CELLPADDING=0><TR><TH HEIGHT=10></TH></TR>
+     <TR><TD WIDTH=10>&nbsp;</TD><TD>
+
+
+<script type='text/javascript' SRC='../js/ajax.js?v=1620062719'></script>
+<INPUT TYPE=HIDDEN NAME="jsh_pageVertPos" VALUE=0>
+<script type='text/javascript' SRC='../js/jsHelper.js?v=1620062719'></script>
+<ul style="list-style: none outside none; margin: 0pt; padding: 0pt;"><li><A HREF="https://genome.ucsc.edu/cgi-bin/hgLogin?hgLogin.do.displayLoginPage=1&returnto=https%3A%2F%2Fgenome.ucsc.edu%2Fcgi%2Dbin%2FhgSession%3Fhgsid%3D1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Login</A></li><li><A HREF="https://genome.ucsc.edu/cgi-bin/hgLogin?hgLogin.do.signupPage=1&returnto=https%3A%2F%2Fgenome.ucsc.edu%2Fcgi%2Dbin%2FhgSession%3Fhgsid%3D1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Create an account</A></li></ul><P>Signing in enables you to save current settings into a named session, and then restore settings from the session later. <BR>If you wish, you can share named sessions with other users.</P>
+	</TD><TD WIDTH=15></TD></TR></TABLE>
+	</TD></TR></TABLE>
+	</TD></TR></TABLE>
+	
+</div>
+<div>
+<!-- +++++++++++++++++++++ START NEW SECTION +++++++++++++++++++ -->
+<BR>
+
+   <!--outer table is for border purposes-->
+   <TABLE WIDTH='100%' BGCOLOR='#888888' BORDER='0' CELLSPACING='0' CELLPADDING='1'><TR><TD>
+    <TABLE BGCOLOR='#FFFEE8' WIDTH='100%'  BORDER='0' CELLSPACING='0' CELLPADDING='0'><TR><TD>
+
+<div class='subheadingBar windowSize'>
+Session Management     </div>
+     <TABLE BGCOLOR='#FFFEE8' WIDTH='100%' CELLPADDING=0><TR><TH HEIGHT=10></TH></TR>
+     <TR><TD WIDTH=10>&nbsp;</TD><TD>
+
+
+See the <A HREF="../goldenPath/help/hgSessionHelp.html" TARGET=_BLANK>Sessions User's Guide</A> for more information about this tool. See the <A HREF="../goldenPath/help/sessions.html" TARGET=_BLANK>Session Gallery</A> for example sessions.<P/>
+<A HREF="../cgi-bin/cartReset?hgsid=1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL&destination=..%2Fcgi%2Dbin%2FhgSession%3Fhgsid%3D1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">Click here to reset</A> the browser user interface settings to their defaults.
+<FORM ACTION="../cgi-bin/hgSession" NAME="mainForm" METHOD=POST ENCTYPE="multipart/form-data">
+<INPUT TYPE=HIDDEN NAME='hgsid' VALUE='1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL'>
+<P>If you <A HREF="https://genome.ucsc.edu/cgi-bin/hgLogin?hgLogin.do.displayLoginPage=1&returnto=https%3A%2F%2Fgenome.ucsc.edu%2Fcgi%2Dbin%2FhgSession%3Fhgsid%3D1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">sign in</A>, you will also have the option to save named sessions.
+<H3>Save Settings</H3>
+<TABLE BORDERWIDTH=0>
+<TR><TD colspan=4>Save current settings to a local file:</TD></TR>
+<TR><TD>&nbsp;&nbsp;&nbsp;</TD><TD>file:</TD><TD>
+<INPUT TYPE=TEXT NAME='hgS&#x5F;saveLocalFileName' ID='hgS&#x5F;saveLocalFileName' SIZE=20 VALUE=''>
+&nbsp;&nbsp;&nbsp;file type returned: <input type=radio name='hgS_saveLocalFileCompress' id='hgS_saveLocalFileCompress' value='none' CHECKED>&nbsp;plain text&nbsp&nbsp<input type=radio name='hgS_saveLocalFileCompress' id='hgS_saveLocalFileCompress' value='gzip'>&nbsp;gzip compressed (ignored if output file is blank)</TD><TD>&nbsp;<input type='submit' name='hgS_doSaveLocal' id='hgS_doSaveLocal' value='submit'></TD></TR>
+<TR><TD></TD><TD colspan=3>(leave file blank to get output in browser window)</TD></TR>
+<TR><TD colspan=4></TD></TR>
+<TR><TD colspan=4>Save Custom Tracks:</TD></TR>
+<TR><TD>&nbsp;&nbsp;&nbsp;</TD><TD colspan=2>back up custom tracks to archive .tar.gz</TD><TD>&nbsp;<input type='submit' name='hgS_showDownload_' id='hgS_showDownload_' value='submit'></TD></TR>
+<TR><TD colspan=4></TD></TR>
+</TABLE>
+<H3>Restore Settings</H3>
+<TABLE BORDERWIDTH=0>
+<TR><TD colspan=2>Use settings from another user's saved session:</TD></TR>
+<TR><TD>&nbsp;&nbsp;&nbsp;</TD><TD>user: 
+<INPUT TYPE=TEXT NAME='hgS&#x5F;otherUserName' ID='hgS&#x5F;otherUserName' SIZE=20 VALUE=''>
+&nbsp;&nbsp;&nbsp;session name: 
+<INPUT TYPE=TEXT NAME='hgS&#x5F;otherUserSessionName' ID='hgS&#x5F;otherUserSessionName' SIZE=20 VALUE=''>
+&nbsp;&nbsp;<input type='submit' name='hgS_doOtherUser' id='hgS_doOtherUser' value='submit'></TD></TR>
+<TR><TD colspan=2></TD></TR>
+</TABLE>
+<TABLE BORDERWIDTH=0>
+<TR><TD colspan=2>Use settings from a local file:</TD>
+<TD><INPUT TYPE=FILE NAME="hgS_loadLocalFileName" id='hgS_loadLocalFileName'>
+&nbsp;&nbsp;<input type='submit' name='hgS_doLoadLocal' id='hgS_doLoadLocal' value='submit'></TD></TR>
+<TR><TD colspan=2></TD></TR>
+<TR><TD colspan=2>Use settings from a URL (http://..., ftp://...):</TD>
+<TD>
+<INPUT TYPE=TEXT NAME='hgS&#x5F;loadUrlName' ID='hgS&#x5F;loadUrlName' SIZE=20 VALUE=''>
+&nbsp;&nbsp;<input type='submit' name='hgS_doLoadUrl' id='hgS_doLoadUrl' value='submit'></TD></TR>
+</TABLE>
+<P></P>
+</FORM>
+
+	</TD><TD WIDTH=15></TD></TR></TABLE>
+	</TD></TR></TABLE>
+	</TD></TR></TABLE>
+	
+</div>
+<div>
+<!-- +++++++++++++++++++++ START NEW SECTION +++++++++++++++++++ -->
+<BR>
+
+   <!--outer table is for border purposes-->
+   <TABLE WIDTH='100%' BGCOLOR='#888888' BORDER='0' CELLSPACING='0' CELLPADDING='1'><TR><TD>
+    <TABLE BGCOLOR='#FFFEE8' WIDTH='100%'  BORDER='0' CELLSPACING='0' CELLPADDING='0'><TR><TD>
+
+<div class='subheadingBar windowSize'>
+Sharing Sessions     </div>
+     <TABLE BGCOLOR='#FFFEE8' WIDTH='100%' CELLPADDING=0><TR><TH HEIGHT=10></TH></TR>
+     <TR><TD WIDTH=10>&nbsp;</TD><TD>
+
+
+There are several ways to share saved sessions with others.
+<UL>
+<LI>If you <A HREF="https://genome.ucsc.edu/cgi-bin/hgLogin?hgLogin.do.displayLoginPage=1&returnto=https%3A%2F%2Fgenome.ucsc.edu%2Fcgi%2Dbin%2FhgSession%3Fhgsid%3D1117727489_15e28oR1NsUWhGqAvANH9mbgg4nL">sign in</A>, you will be able  to save named sessions which will be displayed with  Browser and Email links.</LI>
+<LI>If you have saved your settings to a local file, you can send email to others with the file as an attachment and direct them to <A HREF="https://genome.ucsc.edu/cgi-bin/hgTracks">https://genome.ucsc.edu/cgi-bin/hgTracks</A> .</LI>
+<LI>If a saved settings file is available from a web server, you can send email to others with a link such as https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=<B>U</B> where <B>U</B> is the URL of your settings file, e.g. http://www.mysite.edu/~me/mySession.txt .  In this type of link, you can replace "hgSession" with "hgTracks" in order to proceed directly to the Genome Browser. For an example page using such links please see the <A HREF="../goldenPath/help/sessions.html" TARGET=_BLANK>Session Gallery</A>.</LI>
+</UL>
+
+	</TD><TD WIDTH=15></TD></TR></TABLE>
+	</TD></TR></TABLE>
+	</TD></TR></TABLE>
+	
+</div>
+</TD></TR></TABLE>
+
+<script type='text/javascript' nonce='JVrvL5sDaRNzkAu0yaHuYxL4e4mS'>
+function showWarnBox() {document.getElementById('warnOK').innerHTML='&nbsp;OK&nbsp;';var warnBox=document.getElementById('warnBox');warnBox.style.display='';document.getElementById('warnHead').innerHTML='Warning/Error(s):';window.scrollTo(0, 0);}
+function hideWarnBox() {var warnBox=document.getElementById('warnBox');warnBox.style.display='none';var warnList=document.getElementById('warnList');warnList.innerHTML='';var endOfPage = document.body.innerHTML.substr(document.body.innerHTML.length-20);if(endOfPage.lastIndexOf('-- ERROR --') > 0) { history.back(); }}
+document.getElementById('warnOK').onclick = function() {hideWarnBox();return false;};
+window.onunload = function(){}; // Trick to avoid FF back button issue.
+$("#tools1 ul li a").each( function (a) {
+    if (this.href && this.href.indexOf("hgTracks") !== -1) {
+        var obj = this;
+        obj.onclick = function(e) {
+            var pix = calculateHgTracksWidth();
+            e.currentTarget.href += "&pix=" + pix;
+        }
+    }
+});
+document.getElementById('hgS_saveLocalFileName').onkeypress = function(event) {if (!event) {event=window.event}; return pressOnEnter(event, hgS_doSaveLocal);};
+document.getElementById('hgS_otherUserName').onkeypress = function(event) {if (!event) {event=window.event}; return noSubmitOnEnter(event);};
+document.getElementById('hgS_otherUserSessionName').onkeypress = function(event) {if (!event) {event=window.event}; return pressOnEnter(event, hgS_doOtherUser);};
+document.getElementById('hgS_loadLocalFileName').onkeypress = function(event) {if (!event) {event=window.event}; return noSubmitOnEnter(event);};
+document.getElementById('hgS_loadUrlName').onkeypress = function(event) {if (!event) {event=window.event}; return pressOnEnter(event, hgS_doLoadUrl);};
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-4289047-4', 'auto');
+  ga('require', 'displayfeatures');
+  ga('set', 'transport', 'beacon');
+  ga('send', 'pageview');
+
+</script>
+</BODY></HTML>
