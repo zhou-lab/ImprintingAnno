@@ -115,10 +115,10 @@ dragAndDrop on
          bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Wang2014Cell_Sperm.bw
          parent Spermatocyte on
 
-track Spermatocyte
+track Spermatocyte_WGBS
 type bigWig
-shortLabel Spermatocyte
-longLabel Spermatocyte
+shortLabel Spermatocyte WGBS
+longLabel Spermatocyte WGBS
 compositeTrack off
 viewLimits 0.0:1.0
 maxHeightPixels 100:15:5
@@ -131,21 +131,21 @@ dragAndDrop on
          shortLabel Hammoud2014CellSC_Sperm-Mature
          longLabel Hammoud2014CellSC_Sperm-Mature
          bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Hammoud2014CellSC_Sperm-Mature.bw
-         parent Spermatocyte on
+         parent Spermatocyte_WGBS on
          
          track Hammoud2014CellSC_Spermatocyte-W8
          type bigWig
          shortLabel Hammoud2014CellSC_Spermatocyte-W8
          longLabel Hammoud2014CellSC_Spermatocyte-W8
          bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Hammoud2014CellSC_Spermatocyte-W8.bw
-         parent Spermatocyte on
+         parent Spermatocyte_WGBS on
          
          track Hammoud2014CellSC_Spermatid-W8
          type bigWig
          shortLabel Hammoud2014CellSC_Spermatid-W8
          longLabel Hammoud2014CellSC_Spermatid-W8
          bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Hammoud2014CellSC_Spermatid-W8.bw
-         parent Spermatocyte on
+         parent Spermatocyte_WGBS on
 
 
 track Testis
@@ -164,35 +164,11 @@ visibility hide
     itemRgb on
     parent Testis on
 
-    track 204875570014_R02C01
-    type bigBed 9
-    shortLabel 204875570014_R02C01
-    longLabel Tissue_Age_Associated_Me_20092_Tissue_Age_Associated_Me
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R02C01.bb
-    itemRgb on
-    parent Testis on
-
     track 204875570036_R02C02
     type bigBed 9
     shortLabel 204875570036_R02C02
     longLabel Dnmt1_Manipulation_21228_Dnmt1_Manipulation
     bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570036_R02C02.bb
-    itemRgb on
-    parent Testis on
-
-    track 204875570048_R02C02
-    type bigBed 9
-    shortLabel 204875570048_R02C02
-    longLabel Tissue_Age_Associated_Me_20117_Tissue_Age_Associated_Me
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570048_R02C02.bb
-    itemRgb on
-    parent Testis on
-
-    track 204875570051_R01C02
-    type bigBed 9
-    shortLabel 204875570051_R01C02
-    longLabel Tissue_Age_Associated_Me_20261_Tissue_Age_Associated_Me
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570051_R01C02.bb
     itemRgb on
     parent Testis on
 
@@ -236,14 +212,6 @@ visibility hide
     itemRgb on
     parent Kidney on
 
-    track 204637490001_R04C01
-    type bigBed 9
-    shortLabel 204637490001_R04C01
-    longLabel Other_Rodent_21808_Other_Rodent
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204637490001_R04C01.bb
-    itemRgb on
-    parent Kidney on
-
     track 204875570014_R03C01
     type bigBed 9
     shortLabel 204875570014_R03C01
@@ -266,14 +234,6 @@ visibility hide
     shortLabel 204875570008_R02C01
     longLabel Tissue_Age_Associated_Me_20031_Tissue_Age_Associated_Me
     bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R02C01.bb
-    itemRgb on
-    parent Muscle on
-
-    track 204875570010_R03C02
-    type bigBed 9
-    shortLabel 204875570010_R03C02
-    longLabel Other_Rodent_21811_Other_Rodent
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570010_R03C02.bb
     itemRgb on
     parent Muscle on
 
@@ -325,11 +285,4 @@ visibility hide
     itemRgb on
     parent Heart on
 
-    track 204637490001_R02C01
-    type bigBed 9
-    shortLabel 204637490001_R02C01
-    longLabel Other_Rodent_21805_Other_Rodent
-    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204637490001_R02C01.bb
-    itemRgb on
-    parent Heart on
 
