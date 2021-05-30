@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/zhou-lab/ImprintingAnno/master/track/hub.txt
 
 # Mouse (mm10)
-## Nespas-Gnasxl (chr2:174294778-174299600)
+## Nespas-Gnasxl (chr2:174294395-174296929)
 [![img](img/Nespas.png)](https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=https://github.com/zhou-lab/ImprintingAnno/blob/master/img/Nespas.txt?raw=true)
 
 ## Gnas1a (chr2:174327149-174327881)
