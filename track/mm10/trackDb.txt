@@ -1,0 +1,335 @@
+track WholeGenomeCpG
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/WholeGenome_CpG_mm10.bb
+shortLabel Whole Genome CpG
+longLabel Whole Genome CpGs of in human genome mm10
+type bigBed
+visibility hide
+color 0,60,120
+maxHeightPixels 128:25:10
+priority 1
+
+track MouseArray
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/mouse_manifest_final_track.bb
+shortLabel Mouse Array
+longLabel Mouse Array
+type bigBed
+visibility dense
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
+
+track MouseArrayImprintingDesigned
+bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/GenomeAnnotation/imprinting.bb
+shortLabel Mouse Array Imprinting Designed
+longLabel Mouse Array Imprinting Designed
+type bigBed
+visibility dense
+color 0,120,60
+maxHeightPixels 128:25:10
+priority 1
+
+track ICR_Wang2014
+bigDataUrl http://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/ICRDMR/mm10/20210526_Wang2014Cell_ICR_PMID24813617.bb
+shortLabel ICR_Wang2014
+longLabel ICR Wang et al. 2014 Cell PMID 24813617
+type bigBed
+visibility dense
+color 100,10,60
+maxHeightPixels 128:25:10
+priority 1
+
+track ICR_Tomizawa2011
+bigDataUrl http://zhouserver.research.chop.edu/trackHub/GenomeAnnotation/ICRDMR/mm10/20210526_Tomizawa2011Development_ICR_PMID21247965.bb
+shortLabel ICR_Tomizawa2011
+longLabel ICR Tomizawa et al. 2011 Development PMID 21247965
+type bigBed
+visibility dense
+color 100,10,60
+maxHeightPixels 128:25:10
+priority 1
+
+track Oocyte
+type bigWig
+shortLabel Oocyte
+longLabel Oocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Wang2014Cell_Oocyte
+         type bigWig
+         shortLabel Wang2014Cell_Oocyte
+         longLabel Wang2014Cell_Oocyte
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Wang2014Cell_Oocyte.bw
+         parent Oocyte on
+
+         track Kobayashi2012PLoSG_Oocyte
+         type bigWig
+         shortLabel Kobayashi2012PLoSG_Oocyte
+         longLabel Kobayashi2012PLoSG_Oocyte
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Kobayashi2012PLoSG_Oocyte.bw
+         parent Oocyte on
+
+         track Shirane2013PLoSG_Oocyte-GV
+         type bigWig
+         shortLabel Shirane2013PLoSG_Oocyte-GV
+         longLabel Shirane2013PLoSG_Oocyte-GV
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-GV.bw
+         parent Oocyte on
+         
+         track Shirane2013PLoSG_Oocyte-NG
+         type bigWig
+         shortLabel Shirane2013PLoSG_Oocyte-NG
+         longLabel Shirane2013PLoSG_Oocyte-NG
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/Shirane2013PLoSG_Oocyte-NG.bw
+         parent Oocyte on
+         
+         track Smallwood2014_GSM1370534_MII_oocytes_bulk
+         type bigWig
+         shortLabel Smallwood2014_GSM1370534_MII_oocytes_bulk
+         longLabel Smallwood2014_GSM1370534_MII_oocytes_bulk
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1370534_MII_oocytes_bulk.mm10_liftOver.bw
+         parent Oocyte on
+
+         track Smallwood2014_GSM1413827_MII_2_deeper.mm10_liftOver
+         type bigWig
+         shortLabel Smallwood2014_GSM1413827_MII_2_deeper
+         longLabel Smallwood2014_GSM1413827_MII_2_deeper
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413827_MII_2_deeper.mm10_liftOver.bw
+         parent Oocyte on
+         
+         track Smallwood2014_GSM1413828_MII_5_deeper.mm10_liftOver
+         type bigWig
+         shortLabel Smallwood2014_GSM1413828_MII_5_deeper
+         longLabel Smallwood2014_GSM1413828_MII_5_deeper
+         bigDataUrl http://zhouserver.research.chop.edu/trackHub/Mouse_WGBS/mm10/depth0/GSM1413828_MII_5_deeper.mm10_liftOver.bw
+         parent Oocyte on
+
+         track Wang2014Cell_Sperm
+         type bigWig
+         shortLabel Wang2014Cell_Sperm
+         longLabel Wang2014Cell_Sperm
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Wang2014Cell_Sperm.bw
+         parent Spermatocyte on
+
+track Spermatocyte
+type bigWig
+shortLabel Spermatocyte
+longLabel Spermatocyte
+compositeTrack off
+viewLimits 0.0:1.0
+maxHeightPixels 100:15:5
+visibility hide
+allButtonPair on
+dragAndDrop on
+
+         track Hammoud2014CellSC_Sperm-Mature
+         type bigWig
+         shortLabel Hammoud2014CellSC_Sperm-Mature
+         longLabel Hammoud2014CellSC_Sperm-Mature
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Hammoud2014CellSC_Sperm-Mature.bw
+         parent Spermatocyte on
+         
+         track Hammoud2014CellSC_Spermatocyte-W8
+         type bigWig
+         shortLabel Hammoud2014CellSC_Spermatocyte-W8
+         longLabel Hammoud2014CellSC_Spermatocyte-W8
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Hammoud2014CellSC_Spermatocyte-W8.bw
+         parent Spermatocyte on
+         
+         track Hammoud2014CellSC_Spermatid-W8
+         type bigWig
+         shortLabel Hammoud2014CellSC_Spermatid-W8
+         longLabel Hammoud2014CellSC_Spermatid-W8
+         bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_WGBS/mm10/Hammoud2014CellSC_Spermatid-W8.bw
+         parent Spermatocyte on
+
+
+track Testis
+type bigBed 9
+shortLabel Testis
+longLabel Testis
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570011_R02C01
+    type bigBed 9
+    shortLabel 204875570011_R02C01
+    longLabel Tissue_Age_Associated_Me_20178_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570011_R02C01.bb
+    itemRgb on
+    parent Testis on
+
+    track 204875570014_R02C01
+    type bigBed 9
+    shortLabel 204875570014_R02C01
+    longLabel Tissue_Age_Associated_Me_20092_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R02C01.bb
+    itemRgb on
+    parent Testis on
+
+    track 204875570036_R02C02
+    type bigBed 9
+    shortLabel 204875570036_R02C02
+    longLabel Dnmt1_Manipulation_21228_Dnmt1_Manipulation
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570036_R02C02.bb
+    itemRgb on
+    parent Testis on
+
+    track 204875570048_R02C02
+    type bigBed 9
+    shortLabel 204875570048_R02C02
+    longLabel Tissue_Age_Associated_Me_20117_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570048_R02C02.bb
+    itemRgb on
+    parent Testis on
+
+    track 204875570051_R01C02
+    type bigBed 9
+    shortLabel 204875570051_R01C02
+    longLabel Tissue_Age_Associated_Me_20261_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570051_R01C02.bb
+    itemRgb on
+    parent Testis on
+
+    track 204875570062_R04C01
+    type bigBed 9
+    shortLabel 204875570062_R04C01
+    longLabel Dnmt1_Manipulation_21284_Dnmt1_Manipulation
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570062_R04C01.bb
+    itemRgb on
+    parent Testis on
+
+    track 204875570065_R06C02
+    type bigBed 9
+    shortLabel 204875570065_R06C02
+    longLabel Dnmt1_Manipulation_21312_Dnmt1_Manipulation
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570065_R06C02.bb
+    itemRgb on
+    parent Testis on
+
+track Kidney
+type bigBed 9
+shortLabel Kidney
+longLabel Kidney
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204617710019_R05C01
+    type bigBed 9
+    shortLabel 204617710019_R05C01
+    longLabel Tissue_Age_Associated_Me_21012_P2_A3_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204617710019_R05C01.bb
+    itemRgb on
+    parent Kidney on
+
+    track 204617710019_R06C01
+    type bigBed 9
+    shortLabel 204617710019_R06C01
+    longLabel Tissue_Age_Associated_Me_20242_P2_B3_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204617710019_R06C01.bb
+    itemRgb on
+    parent Kidney on
+
+    track 204637490001_R04C01
+    type bigBed 9
+    shortLabel 204637490001_R04C01
+    longLabel Other_Rodent_21808_Other_Rodent
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204637490001_R04C01.bb
+    itemRgb on
+    parent Kidney on
+
+    track 204875570014_R03C01
+    type bigBed 9
+    shortLabel 204875570014_R03C01
+    longLabel Tissue_Age_Associated_Me_20093_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R03C01.bb
+    itemRgb on
+    parent Kidney on
+
+
+track Muscle
+type bigBed 9
+shortLabel Muscle
+longLabel Muscle
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204875570008_R02C01
+    type bigBed 9
+    shortLabel 204875570008_R02C01
+    longLabel Tissue_Age_Associated_Me_20031_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570008_R02C01.bb
+    itemRgb on
+    parent Muscle on
+
+    track 204875570010_R03C02
+    type bigBed 9
+    shortLabel 204875570010_R03C02
+    longLabel Other_Rodent_21811_Other_Rodent
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570010_R03C02.bb
+    itemRgb on
+    parent Muscle on
+
+    track 204875570014_R02C02
+    type bigBed 9
+    shortLabel 204875570014_R02C02
+    longLabel Tissue_Age_Associated_Me_20098_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570014_R02C02.bb
+    itemRgb on
+    parent Muscle on
+
+    track 204875570019_R02C02
+    type bigBed 9
+    shortLabel 204875570019_R02C02
+    longLabel Dnmt1_Manipulation_21339_Dnmt1_Manipulation
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204875570019_R02C02.bb
+    itemRgb on
+    parent Muscle on
+
+track Heart
+type bigBed 9
+shortLabel Heart
+longLabel Heart
+compositeTrack off
+maxHeightPixels 100:15:5
+visibility hide
+
+    track 204617710021_R01C02
+    type bigBed 9
+    shortLabel 204617710021_R01C02
+    longLabel Tissue_Age_Associated_Me_20024_P1_G10_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204617710021_R01C02.bb
+    itemRgb on
+    parent Heart on
+
+    track 204617710021_R02C02
+    type bigBed 9
+    shortLabel 204617710021_R02C02
+    longLabel Tissue_Age_Associated_Me_20130_P1_H10_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204617710021_R02C02.bb
+    itemRgb on
+    parent Heart on
+
+    track 204617710021_R03C02
+    type bigBed 9
+    shortLabel 204617710021_R03C02
+    longLabel Tissue_Age_Associated_Me_20237_P1_A11_Tissue_Age_Associated_Me
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204617710021_R03C02.bb
+    itemRgb on
+    parent Heart on
+
+    track 204637490001_R02C01
+    type bigBed 9
+    shortLabel 204637490001_R02C01
+    longLabel Other_Rodent_21805_Other_Rodent
+    bigDataUrl https://zwdzwd.s3.amazonaws.com/trackHubs/Mouse_MM285/mm10/204637490001_R02C01.bb
+    itemRgb on
+    parent Heart on
+
