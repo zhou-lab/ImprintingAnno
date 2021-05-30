@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/zhou-lab/ImprintingAnno/master/track/hub.txt
 [![img](img/Grb10.png)](https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=https://github.com/zhou-lab/ImprintingAnno/blob/master/img/Grb10.txt?raw=true)
 
 ## Zrsr1, U2af1-rs1 (chr11:22971698-22973990)
-[![img](img/Zrs1.png)](https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=https://github.com/zhou-lab/ImprintingAnno/blob/master/img/Zrsr1.txt?raw=true)
+[![img](img/Zrsr1.png)](https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=https://github.com/zhou-lab/ImprintingAnno/blob/master/img/Zrsr1.txt?raw=true)
 
 ## Igf2r (chr17:12741763-12742936)
 [![img](img/Igf2r.png)](https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=https://github.com/zhou-lab/ImprintingAnno/blob/master/img/Igf2r.txt?raw=true)
