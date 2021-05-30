@@ -1,0 +1,262 @@
+bplist00Ñ_WebMainResourceÕ	
+^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_)https://genome.ucsc.edu/cgi-bin/hgSessionPO*Õ<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">_ 1622402263272
+c chr6
+clade mammal
+cons60way hide
+cons60wayViewalign.showCfg off
+cons60wayViewelements.showCfg off
+cons60wayViewphastcons.showCfg off
+cons60wayViewphyloP.showCfg off
+db mm10
+dinkL 2.0
+dinkR 2.0
+displaySubtracks all
+enableHighlightingDialog 1
+encodeCcreCombined_imgOrd 28
+expOrder_cons60way phyloP60wayPlacental 
+expOrder_hub_2904095_Oocyte hub_2904095_Wang2014Cell_Oocyte hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver 
+expOrder_hub_2904095_Oocyte_WGBS hub_2904095_Wang2014Cell_Oocyte hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver 
+expOrder_hub_2904095_Spermatocyte hub_2904095_Wang2014Cell_Sperm hub_2904095_Hammoud2014CellSC_Spermatid-W8 hub_2904095_Hammoud2014CellSC_Sperm-Mature hub_2904095_Hammoud2014CellSC_Spermatocyte-W8 
+expOrder_hub_2904095_Spermatocyte_WGBS hub_2904095_Hammoud2014CellSC_Sperm-Mature hub_2904095_Hammoud2014CellSC_Spermatocyte-W8 hub_2904095_Hammoud2014CellSC_Spermatid-W8 hub_2904095_Wang2014Cell_Sperm 
+goButton go
+hgFind.matches ENSMUST00000202826.1
+hgHubConnect.hub.2904095 1
+hgS_loadUrlName 
+hgS_otherUserName 
+hgS_otherUserSessionName 
+hgS_saveLocalFileCompress none
+hgS_saveLocalFileName 
+hgsid 1117682749_tGWPjEpIupsC5plDLPMhpt0Lc4R0
+hgtgroup_compGeno_close 0
+hgtgroup_genes_close 0
+hgtgroup_hub_2904095_close 0
+hgtgroup_map_close 0
+hgtgroup_pub_close 0
+hgtgroup_regulation_close 0
+hgtgroup_rna_close 0
+hgtgroup_varRep_close 0
+highlight mm10#chr2#174294778#174299600#aaedff|mm10#chr2#174327149#174327881#aaedff|mm10#chr6#4746830#4749271#aaedff|mm10#chr6#30735884#30739580#aaedff|mm10#chr7#6727472#6731285#aaedff|mm10#chr7#60004023#60005770#aaedff|mm10#chr7#143294798#143296071#aaedff|mm10#chr10#13090289#13091600#aaedff|mm10#chr11#12026785#12026798#aaedff|mm10#chr11#12025451#12025844#aaedff|mm10#chr11#22971698#22973990#aaedff|mm10#chr17#12741763#12742936#aaedff|mm10#chr18#12972071#12974805#aaedff|mm10#chr7#142579860#142581956#aaedff|mm10#chr9#89875459#89878138#aaedff|mm10#chr12#109527910#109528908#aaedff|mm10#chr15#72808843#72811448#aaedff|mm10#chr15#97054004#97055720#aaedff
+hub_2904095_204617710019_R05C01_imgOrd 10
+hub_2904095_204617710019_R06C01_imgOrd 11
+hub_2904095_204617710021_R01C02_imgOrd 7
+hub_2904095_204617710021_R02C02_imgOrd 8
+hub_2904095_204617710021_R03C02_imgOrd 9
+hub_2904095_204637490001_R02C01_imgOrd 10
+hub_2904095_204637490001_R04C01_imgOrd 13
+hub_2904095_204875570008_R02C01_imgOrd 13
+hub_2904095_204875570010_R03C02_imgOrd 16
+hub_2904095_204875570011_R02C01_imgOrd 24
+hub_2904095_204875570014_R02C01_imgOrd 20
+hub_2904095_204875570014_R02C02_imgOrd 14
+hub_2904095_204875570014_R03C01_imgOrd 12
+hub_2904095_204875570019_R02C02_imgOrd 15
+hub_2904095_204875570036_R02C02_imgOrd 25
+hub_2904095_204875570048_R02C02_imgOrd 22
+hub_2904095_204875570051_R01C02_imgOrd 23
+hub_2904095_204875570062_R04C01_imgOrd 26
+hub_2904095_204875570065_R06C02_imgOrd 27
+hub_2904095_Hammoud2014CellSC_Sperm-Mature_imgOrd 21
+hub_2904095_Hammoud2014CellSC_Spermatid-W8_imgOrd 22
+hub_2904095_Hammoud2014CellSC_Spermatocyte-W8_imgOrd 23
+hub_2904095_Heart dense
+hub_2904095_ICR_Tomizawa2011 pack
+hub_2904095_ICR_Tomizawa2011_imgOrd 3
+hub_2904095_ICR_Wang2014 pack
+hub_2904095_ICR_Wang2014_imgOrd 4
+hub_2904095_Kidney dense
+hub_2904095_Kobayashi2012PLoSG_Oocyte_imgOrd 26
+hub_2904095_MouseArrayImprintingDesigned_imgOrd 6
+hub_2904095_MouseArray_imgOrd 5
+hub_2904095_Muscle dense
+hub_2904095_Oocyte full
+hub_2904095_Oocyte_WGBS full
+hub_2904095_Shirane2013PLoSG_Oocyte-GV_imgOrd 27
+hub_2904095_Shirane2013PLoSG_Oocyte-NG_imgOrd 28
+hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk_imgOrd 17
+hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver_imgOrd 18
+hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver_imgOrd 19
+hub_2904095_Spermatocyte full
+hub_2904095_Spermatocyte_WGBS full
+hub_2904095_Testis dense
+hub_2904095_Wang2014Cell_Oocyte_imgOrd 16
+hub_2904095_Wang2014Cell_Sperm_imgOrd 20
+hub_2904095_WholeGenomeCpG dense
+hub_2904095_WholeGenomeCpG_imgOrd 2
+intronEst hide
+intronEst.Ft red
+intronEst.Lt and
+intronEst.acc 
+intronEst.alwaysZero OFF
+intronEst.aut 
+intronEst.autoScale auto-scale to data view
+intronEst.baseColorDrawOpt none
+intronEst.cel 
+intronEst.des 
+intronEst.doWiggle 0
+intronEst.gen 
+intronEst.heightPer 128
+intronEst.horizGrid OFF
+intronEst.indelDoubleInsert 1
+intronEst.indelPolyA 0
+intronEst.indelQueryInsert 1
+intronEst.key 
+intronEst.lib 
+intronEst.lineBar bar
+intronEst.negateValues 0
+intronEst.pro 
+intronEst.smoothingWindow OFF
+intronEst.tis 
+intronEst.transformFunc NONE
+intronEst.windowingFunction maximum
+intronEst.yLineMark 0
+intronEst.yLineOnOff OFF
+intronEst_imgOrd 28
+jsh_pageVertPos 0
+knownGene.label.gene 1
+knownGene_imgOrd 1
+l 30719246
+lastPosition chr7:6710309-6748448
+lastVirtModeExtraState 
+lastVirtModeType default
+multishad.snp142Common.include_bitfields 0
+multishad.snp142Common.include_class 0
+multishad.snp142Common.include_exceptions 0
+multishad.snp142Common.include_func 0
+multishad.snp142Common.include_molType 0
+multishad.snp142Common.include_valid 0
+multishad.snp142Common_geneTrack 0
+multiz60way_imgOrd 32
+ncbiRefSeqCurated_imgOrd 29
+ncbiRefSeqCurated_sel 1
+oldPosition chr7:59996157-60013636
+org Mouse
+phyloP60wayPlacental_imgOrd 31
+pix 1177
+position chr7:59996157-60013636
+position.mm10 lastVirtModeType=default&amp;lastVirtModeExtraState=&amp;virtModeType=default&amp;virtMode=0&amp;nonVirtPosition=&amp;position=chr7%3A59996157%2D60013636
+r 30756216
+refSeqComposite hide
+refSeqComposite.label.gene 1
+refSeqComposite_sel 1
+rmsk hide
+rmsk_imgOrd 34
+simOrder_cons60way phyloP60wayPlacental 
+simOrder_hub_2904095_Oocyte hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver hub_2904095_Wang2014Cell_Oocyte hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver 
+simOrder_hub_2904095_Oocyte_WGBS hub_2904095_Smallwood2014_GSM1413828_MII_5_deeper_mm10_liftOver hub_2904095_Smallwood2014_GSM1370534_MII_oocytes_bulk hub_2904095_Wang2014Cell_Oocyte hub_2904095_Smallwood2014_GSM1413827_MII_2_deeper_mm10_liftOver 
+simOrder_hub_2904095_Spermatocyte hub_2904095_Hammoud2014CellSC_Spermatocyte-W8 hub_2904095_Hammoud2014CellSC_Sperm-Mature hub_2904095_Hammoud2014CellSC_Spermatid-W8 hub_2904095_Wang2014Cell_Sperm 
+simOrder_hub_2904095_Spermatocyte_WGBS hub_2904095_Hammoud2014CellSC_Spermatocyte-W8 hub_2904095_Hammoud2014CellSC_Spermatid-W8 hub_2904095_Hammoud2014CellSC_Sperm-Mature hub_2904095_Wang2014Cell_Sperm 
+snp142Common hide
+snp142Common.allelesDbSnpStrand 0
+snp142Common.colorSource Function
+snp142Common.extendedNames 0
+snp142Common.funcIntron black
+snp142Common.funcLocus black
+snp142Common.funcNonSynon red
+snp142Common.funcSplice red
+snp142Common.funcSynon green
+snp142Common.funcUnknown black
+snp142Common.funcUntranslated blue
+snp142Common.include_bitfields 
+snp142Common.include_bitfields clinically-assoc
+snp142Common.include_bitfields maf-5-some-pop
+snp142Common.include_bitfields maf-5-all-pops
+snp142Common.include_bitfields has-omim-omia
+snp142Common.include_bitfields microattr-tpa
+snp142Common.include_bitfields submitted-by-lsdb
+snp142Common.include_bitfields genotype-conflict
+snp142Common.include_bitfields rs-cluster-nonoverlapping-alleles
+snp142Common.include_bitfields observed-mismatch
+snp142Common.include_class single
+snp142Common.include_class in-del
+snp142Common.include_class mnp
+snp142Common.include_class insertion
+snp142Common.include_class deletion
+snp142Common.include_class mixed
+snp142Common.include_class no variation
+snp142Common.include_class named
+snp142Common.include_class microsatellite
+snp142Common.include_class het
+snp142Common.include_class unknown
+snp142Common.include_exceptions NoExceptions
+snp142Common.include_exceptions RefAlleleMismatch
+snp142Common.include_exceptions RefAlleleRevComp
+snp142Common.include_exceptions DuplicateObserved
+snp142Common.include_exceptions MixedObserved
+snp142Common.include_exceptions FlankMismatchGenomeLonger
+snp142Common.include_exceptions FlankMismatchGenomeEqual
+snp142Common.include_exceptions FlankMismatchGenomeShorter
+snp142Common.include_exceptions NamedDeletionZeroSpan
+snp142Common.include_exceptions NamedInsertionNonzeroSpan
+snp142Common.include_exceptions SingleClassLongerSpan
+snp142Common.include_exceptions SingleClassZeroSpan
+snp142Common.include_exceptions SingleClassTriAllelic
+snp142Common.include_exceptions SingleClassQuadAllelic
+snp142Common.include_exceptions ObservedWrongFormat
+snp142Common.include_exceptions ObservedTooLong
+snp142Common.include_exceptions ObservedContainsIupac
+snp142Common.include_exceptions ObservedMismatch
+snp142Common.include_exceptions MultipleAlignments
+snp142Common.include_exceptions NonIntegerChromCount
+snp142Common.include_exceptions AlleleFreqSumNot1
+snp142Common.include_exceptions SingleAlleleFreq
+snp142Common.include_exceptions InconsistentAlleles
+snp142Common.include_func unknown
+snp142Common.include_func coding-synon
+snp142Common.include_func intron
+snp142Common.include_func near-gene-3
+snp142Common.include_func near-gene-5
+snp142Common.include_func ncRNA
+snp142Common.include_func nonsense
+snp142Common.include_func missense
+snp142Common.include_func stop-loss
+snp142Common.include_func frameshift
+snp142Common.include_func cds-indel
+snp142Common.include_func untranslated-3
+snp142Common.include_func untranslated-5
+snp142Common.include_func splice-3
+snp142Common.include_func splice-5
+snp142Common.include_molType unknown
+snp142Common.include_molType genomic
+snp142Common.include_molType cDNA
+snp142Common.include_molType mito
+snp142Common.include_valid unknown
+snp142Common.include_valid by-cluster
+snp142Common.include_valid by-frequency
+snp142Common.include_valid by-submitter
+snp142Common.include_valid by-2hit-2allele
+snp142Common.include_valid by-hapmap
+snp142Common.include_valid by-1000genomes
+snp142Common.maxMinorAlFreq 0.5
+snp142Common.maxWeight 1
+snp142Common.minAlFreq2N 0
+snp142Common.minAvHet 0
+snp142Common.minMinorAlFreq 0
+snp142Common.minSubmitters 0
+snp142Common.section_colorByAttribute_close 1
+snp142Common.section_filterByAttribute_close 1
+snp142Common.section_geneTracks_close 1
+snp142Common_geneTrack knownGene
+snp142Common_imgOrd 33
+tabulaMuris hide
+tabulamurisBarChart_imgOrd 39
+textFont Helvetica
+textSize 12
+textStyle Normal
+trackHubs 2904095
+virtMode 0
+virtModeType default
+tabulamurisBarChart full
+cpgIslandExt pack
+encodeCcreCombined dense
+knownGene pack
+wgEncodeGencodeVM25 pack
+altSeqLiftOverPslStrains1 dense
+mm10Haplotypes pack
+transMapEnsemblV5 pack
+transMapRefSeqV5 pack
+encode3RenChromHmm pack
+cytoBandIdeo dense
+crispr10KRanges dense
+crispr10KTargets pack
+encode3RenAtac full
+defaultsSet on</pre></body></html>Ztext/plainUUTF-8    ( 7 N ` v ” À Á+š+¥                           +«
